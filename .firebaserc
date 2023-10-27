@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "menu-270010": {
+      "hosting": {
+        "app": [
+          "menu-270010"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "menu-270010"
+  }
+}
